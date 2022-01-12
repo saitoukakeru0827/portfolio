@@ -24,3 +24,6 @@ atomで追加
 ```cs
 string a = "これはC#(cs)初期のブロック";
 ```
+
+## リンク
+[unityroom choto827のページ](https://unityroom.com/users/9ulmc1sqyaojpx64dtfz)

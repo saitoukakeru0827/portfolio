@@ -64,4 +64,4 @@
 [unityroom choto827のページ](https://unityroom.com/users/9ulmc1sqyaojpx64dtfz)
 
 ## 連絡先
-- Email[chotosanae827@gmail.com](mailto:chotosanae827@gmail.com)
+- Email [chotosanae827@gmail.com](mailto:chotosanae827@gmail.com)

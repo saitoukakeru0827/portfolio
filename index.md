@@ -32,7 +32,6 @@
 ## テーマの進捗状況
 - モック画面の作成、予定処理順
 
-<img src="images/RPG_Mok.png" alt="作品名1" style="height: 240px">
 
 ## 作品リスト
 ### Space Rabbit

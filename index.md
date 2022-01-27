@@ -29,8 +29,12 @@
 - Unityを用いてコマンドバトル式のRPGのシステム作成を試みる
 - 長い期間ゲームの制作をする、  期間は3ヶ月ほど行い自主的にプログラムをする習慣を身につける
 
-## 作品リスト
+## テーマの進捗状況
+- モック画面の作成、予定処理順
 
+<img src="images/RPG_Mok.png" alt="作品名1" style="height: 240px">
+
+## 作品リスト
 ### Space Rabbit
 [<img src="images/SpaceRabbit.png" alt="作品名1" style="height: 240px">](https://unityroom.com/games/space_rabbit)
 

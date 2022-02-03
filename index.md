@@ -67,6 +67,7 @@
 [unityroom choto827のページ](https://unityroom.com/users/9ulmc1sqyaojpx64dtfz)<br>
 [企画書を作るときに参考にしたページ](https://www.byking.jp/blog/2019/06/28/%E8%8D%89%E6%A1%88%E6%9B%B8%E3%80%81%E4%BC%81%E7%94%BB%E6%9B%B8%E3%80%81%E4%BB%95%E6%A7%98%E6%9B%B8%E3%81%A3%E3%81%A6%E3%81%A9%E3%82%93%E3%81%AA%E3%83%A2%E3%83%8E%EF%BC%9F/)<br>
 [参考にしたページを見ながら実際に試作したもの](https://unityroom.com/games/2d_shooting)
+[最終発表用資料ページ](https://docs.google.com/document/d/10EO8IivFDyiTn-jhbhpiWJo86Ro1x9PL51ODH8HRztk/edit#heading=h.rl4ny6hzqbqo)
 
 ## 連絡先
 - Email [chotosanae827@gmail.com](mailto:chotosanae827@gmail.com)

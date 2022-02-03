@@ -35,7 +35,7 @@
 
 <img src="images/RPG_Mok.png" alt="作品名1" style="height: 240px">
 
-[現状の仕様書](https://github.com/saitoukakeru0827/2022YearGameCreater/blob/main/Shiyou.md)
+[現状の仕様書](https://github.com/saitoukakeru0827/portfolio/blob/main/Shiyousyo.md)
 
 ## 作品リスト
 ### Space Rabbit

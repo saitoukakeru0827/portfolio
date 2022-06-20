@@ -63,6 +63,11 @@
 ###　正の熟語改
 [<img src="images/SeiKai.png" alt="作品名2" style="height: 240px">](https://unityroom.com/games/seinozyukugokai)
 
+作品概要
+
+- 開発環境：Unity
+- 開発期間：１週間
+
 ### HOP!STEP!JUMP!
 [<img src="images/HOP!STEP!JUMP!.png" alt="作品名2" style="height: 240px">](https://cluster.mu/w/f59915c6-b41e-4b7d-973b-7d5b239a33cd)
 

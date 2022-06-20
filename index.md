@@ -57,9 +57,6 @@
 改善点
 
 - 上から降ってくると取れない文字が出てくる</br>
-  決まった範囲内でランダムに出るように変更する。</br>
-  また、それに伴ってライフを無くし、制限時間内に</br>
-  どこまで取り、高スコアを目指せるかのゲームにする。
 
 ### HOP!STEP!JUMP!
 [<img src="images/HOP!STEP!JUMP!.png" alt="作品名2" style="height: 240px">](https://cluster.mu/w/f59915c6-b41e-4b7d-973b-7d5b239a33cd)
